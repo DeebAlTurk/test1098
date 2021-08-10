@@ -13,6 +13,8 @@
 </body>
 </html>
 <?php 
-while(true){
+$i=0;
+while($i!==3000){
 echo "<h1>I LOVE YOU MARIAM</h1><br>";
+  $i++;
 }
